@@ -22,4 +22,6 @@ export default {
       },
     }),
   ],
+  appIndex: 'index.html',
+  rootDir: '.',
 };
